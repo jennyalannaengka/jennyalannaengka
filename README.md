@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jennyalannaengka
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning in Physics Major
 - 📫 You can contact me in Linkedin Jenny Alanna Engka
 
